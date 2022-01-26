@@ -13,7 +13,7 @@ Uvicorn
 
 ### How to run
 1) Download the repo on your system or clone it using below command if git is installed\
-    git clone https://github.com/taimurKhann/Voucher-API.git
+    git clone https://github.com/hassansheikh23/Voucher-FastAPI.git
 2) Move into Voucher-API folder\
     cd Voucher-API
 3) Run below command to run the docker containers\
